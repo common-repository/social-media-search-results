@@ -1,0 +1,51 @@
+.ssocial-border22:after {
+    border-color: #FFFFFF transparent;
+    border-style: solid;
+    border-width: 13px 13px 0;
+    bottom: -13px;
+    content: "";
+    display: block;
+    left: 47px;
+    position: absolute;
+    width: 0;
+}
+
+.ssocial-border22:before {
+    border-color: #c4c4c4 transparent;
+    border-style: solid;
+    border-width: 20px 20px 0;
+    bottom: -20px;
+    content: "";
+    display: block;
+    left: 40px;
+    position: absolute;
+    width: 0;
+}
+
+.ssocial-border22 {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 5px solid #c4c4c4;
+    border-radius: 10px 10px 10px 10px;
+    color: #333333;
+    margin: 1em 0;
+    padding: 15px;
+    position: relative;
+}
+
+#ssocial22
+{
+background-color:#FFFFFF;
+width:100%;
+height:500px;
+overflow:scroll;
+}
+
+#ssocial22 a, #ssocial22 a:visited {
+    color: #000000;
+    text-decoration: none;
+    margin: 1em;
+}
+#ssocial22 .time{
+    margin-left: 70px;
+    margin-top: 0;
+}
